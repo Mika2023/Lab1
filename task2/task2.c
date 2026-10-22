@@ -3,7 +3,7 @@
 #include <math.h>
 #include <pthread.h>
 #include <time.h>
-#include "timer.h"
+#include "../timer.h"
 
 const double G = 6.67430e-11;
 const double EPSILON = 1e-18;
